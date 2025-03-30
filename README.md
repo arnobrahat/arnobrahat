@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arnobrahat
-- 👀 I’m interested in data base,phython and java programs
+- 👀 I’m interested in database, python and java programs
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java, python and database. 
 - 📫 reach me @
