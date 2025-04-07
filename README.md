@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arnobrahat
-- 👀 I’m interested in database, python and java programs
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java, python and database. 
+- 👀 I’m interested in software test automation and manual testing.
+- 💞️ I’m looking to collaborate on JavaScript, typescript. 
 - 📫 reach me @
 arnobrahat@gmail.com
 
